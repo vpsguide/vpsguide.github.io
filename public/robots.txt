@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vpsguide.github.io/sitemap.xml

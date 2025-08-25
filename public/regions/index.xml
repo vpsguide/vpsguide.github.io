@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>全球VPS推荐 on 云选指南</title>
+    <link>https://vpsguide.github.io/regions/</link>
+    <description>Recent content in 全球VPS推荐 on 云选指南</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 25 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vpsguide.github.io/regions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>阿联酋VPS推荐，中东出海的稳定服务器</title>
+      <link>https://vpsguide.github.io/regions/ae/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/regions/ae/</guid>
+      <description>2025年阿联酋VPS完整推荐！详细对比主流UAE云服务器提供商，涵盖TikTok、社交媒体、便宜VPS、无限流量VPS等方案。助您选择最佳中东出海服务器，低延迟连接亚欧非市场。</description>
+    </item>
+  </channel>
+</rss>
