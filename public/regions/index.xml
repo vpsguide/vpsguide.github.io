@@ -6,8 +6,15 @@
     <description>Recent content in 全球VPS推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 11 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/regions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>法国VPS推荐，欧洲高性能服务器</title>
+      <link>https://vpsguide.github.io/regions/fr/</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/regions/fr/</guid>
+      <description>法国地区VPS云服务器完整评测指南，包含网络性能、价格对比、技术支持等详细分析</description>
+    </item>
     <item>
       <title>芬兰VPS推荐，北欧高性能云服务器</title>
       <link>https://vpsguide.github.io/regions/fi/</link>
