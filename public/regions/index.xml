@@ -6,21 +6,35 @@
     <description>Recent content in 全球VPS推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 16 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/regions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>埃及VPS推荐，连接三大洲的优质云服务器</title>
+      <link>https://vpsguide.github.io/regions/eg/</link>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/regions/eg/</guid>
+      <description>埃及 VPS 云服务器商家推荐，整理多家可靠服务商与性价比套餐，具备覆盖中东地区的优质网络环境，支持灵活的资源配置与多系统选择，适合网站部署、跨境业务、应用开发及区域市场拓展，帮助用户打造高效稳定的云端服务。</description>
+    </item>
     <item>
       <title>法国VPS推荐，欧洲高性能服务器</title>
       <link>https://vpsguide.github.io/regions/fr/</link>
-      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://vpsguide.github.io/regions/fr/</guid>
-      <description>法国地区VPS云服务器完整评测指南，包含网络性能、价格对比、技术支持等详细分析</description>
+      <description>法国 VPS 云服务器推荐，盘点值得信赖的服务商和套餐，覆盖高速法国节点，支持灵活资源配置，适合网站建设、跨境业务及各类应用部署，帮助用户实现高效稳定的网络体验。</description>
     </item>
     <item>
       <title>芬兰VPS推荐，北欧高性能云服务器</title>
       <link>https://vpsguide.github.io/regions/fi/</link>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://vpsguide.github.io/regions/fi/</guid>
-      <description>芬兰地区VPS云服务器完整评测指南，涵盖网络性能、数据保护、绿色能源等优势分析</description>
+      <description>芬兰 VPS 云服务器商家推荐，汇总多家优质服务商与热门套餐，提供高速稳定的欧洲节点，支持多种操作系统与灵活配置，适合建站、跨境电商、外贸业务及开发测试等多样化应用需求，助您轻松打造高效稳定的网络环境。</description>
+    </item>
+    <item>
+      <title>英国VPS推荐，稳定高速服务器</title>
+      <link>https://vpsguide.github.io/regions/gb/</link>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/regions/gb/</guid>
+      <description>英国 VPS 云服务器商家推荐，汇总可靠服务商与热门套餐，提供低延迟的英国节点，支持灵活配置与多种操作系统，适合建站、跨境业务和开发测试，助力用户轻松实现高效网络部署。</description>
     </item>
     <item>
       <title>西班牙VPS推荐，欧洲南部优质云服务器</title>
@@ -28,13 +42,6 @@
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://vpsguide.github.io/regions/es/</guid>
       <description>想知道西班牙有哪些 VPS 提供商？本文将汇总多家在西班牙提供 VPS 服务的公司，包括本土品牌和知名海外商家，帮助您了解他们在西班牙的数据中心布局和主要特点，方便您根据业务需求选择合适的服务器资源。</description>
-    </item>
-    <item>
-      <title>埃及VPS推荐，连接三大洲的优质云服务器</title>
-      <link>https://vpsguide.github.io/regions/eg/</link>
-      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://vpsguide.github.io/regions/eg/</guid>
-      <description>埃及地区VPS云服务器完整评测指南，包含性能测试、价格对比和最新推荐</description>
     </item>
     <item>
       <title>丹麦VPS推荐，北欧优质云服务器首选</title>
