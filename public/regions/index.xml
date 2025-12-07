@@ -6,8 +6,15 @@
     <description>Recent content in 全球VPS推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/regions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>日本 VPS 推荐，适合中国用户的海外服务器</title>
+      <link>https://vpsguide.github.io/regions/jp/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/regions/jp/</guid>
+      <description>日本 VPS 云服务器完整评测指南，深度解析日本机房网络优势、延迟表现及性价比，为中国用户提供专业的日本VPS选购建议，涵盖 CN2 线路、软银直连等优质方案</description>
+    </item>
     <item>
       <title>意大利 VPS 推荐，欧洲南部最佳性价比服务器</title>
       <link>https://vpsguide.github.io/regions/it/</link>
