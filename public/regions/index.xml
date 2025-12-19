@@ -6,8 +6,15 @@
     <description>Recent content in 全球VPS推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/regions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>韩国 VPS 推荐，超低延迟直连中国大陆首选</title>
+      <link>https://vpsguide.github.io/regions/kr/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/regions/kr/</guid>
+      <description>韩国 VPS 云服务器完整推荐，详解超低延迟、优质带宽、CN2 直连等核心优势，对比主流服务商价格性能，附真实测速数据和购买建议</description>
+    </item>
     <item>
       <title>柬埔寨 VPS 推荐，连接东南亚的数据中心</title>
       <link>https://vpsguide.github.io/regions/kh/</link>
