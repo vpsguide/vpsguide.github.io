@@ -6,8 +6,22 @@
     <description>Recent content in 全球VPS推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/regions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>立陶宛 VPS 推荐，值得推荐的东欧机房：价格低、速度快</title>
+      <link>https://vpsguide.github.io/regions/lt/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/regions/lt/</guid>
+      <description>立陶宛 VPS 服务器完整评测指南，深度分析立陶宛机房的网络优势、价格性价比、数据隐私保护和欧洲连接质量，为需要部署欧洲业务的用户提供专业选购建议。</description>
+    </item>
+    <item>
+      <title>西班牙VPS推荐，欧洲南部优质云服务器</title>
+      <link>https://vpsguide.github.io/regions/es/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/regions/es/</guid>
+      <description>想知道西班牙有哪些 VPS 提供商？本文将汇总多家在西班牙提供 VPS 服务的公司，包括本土品牌和知名海外商家，帮助您了解他们在西班牙的数据中心布局和主要特点，方便您根据业务需求选择合适的服务器资源。</description>
+    </item>
     <item>
       <title>科威特 VPS 推荐，海湾地区业务首选服务器</title>
       <link>https://vpsguide.github.io/regions/kw/</link>
@@ -126,13 +140,6 @@
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://vpsguide.github.io/regions/gb/</guid>
       <description>英国 VPS 云服务器商家推荐，汇总可靠服务商与热门套餐，提供低延迟的英国节点，支持灵活配置与多种操作系统，适合建站、跨境业务和开发测试，助力用户轻松实现高效网络部署。</description>
-    </item>
-    <item>
-      <title>西班牙VPS推荐，欧洲南部优质云服务器</title>
-      <link>https://vpsguide.github.io/regions/es/</link>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://vpsguide.github.io/regions/es/</guid>
-      <description>想知道西班牙有哪些 VPS 提供商？本文将汇总多家在西班牙提供 VPS 服务的公司，包括本土品牌和知名海外商家，帮助您了解他们在西班牙的数据中心布局和主要特点，方便您根据业务需求选择合适的服务器资源。</description>
     </item>
     <item>
       <title>丹麦VPS推荐，北欧优质云服务器首选</title>
