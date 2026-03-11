@@ -6,8 +6,15 @@
     <description>Recent content in 全球VPS推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 09 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/regions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>卡塔尔 VPS 推荐，覆盖中东 GCC 的优质节点</title>
+      <link>https://vpsguide.github.io/regions/qa/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/regions/qa/</guid>
+      <description>卡塔尔VPS推荐，精选多哈节点云服务器方案，覆盖海湾合作委员会全境，网络延迟低至10ms。本文从实际使用角度对比卡塔尔VPS的价格、带宽、无限流量套餐及中文客服支持情况，帮助有中东业务布局需求的用户找到最适合的卡塔尔云服务器方案。</description>
+    </item>
     <item>
       <title>葡萄牙VPS推荐，伊比利亚半岛低延迟云服务器精选</title>
       <link>https://vpsguide.github.io/regions/pt/</link>
