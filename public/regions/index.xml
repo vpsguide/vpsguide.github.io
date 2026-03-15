@@ -6,8 +6,15 @@
     <description>Recent content in 全球VPS推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 13 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/regions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>俄罗斯VPS推荐，东欧莫斯科低延迟、高性价比</title>
+      <link>https://vpsguide.github.io/regions/ru/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/regions/ru/</guid>
+      <description>俄罗斯VPS云服务器推荐，涵盖莫斯科、圣彼得堡主流机房的性能测评与选购建议。本文从本地IP优势、无限流量方案、中文客服支持等维度深度对比多家俄罗斯VPS服务商，帮助有东欧业务需求、Runet本地化运营或特殊访问场景需求的用户，快速找到最适合自己的俄罗斯VPS方案。</description>
+    </item>
     <item>
       <title>罗马尼亚VPS推荐，隐私友好，无限流量套餐汇总</title>
       <link>https://vpsguide.github.io/regions/ro/</link>
