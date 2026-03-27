@@ -6,8 +6,15 @@
     <description>Recent content in 全球VPS推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/regions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>土耳其VPS推荐，伊斯坦布尔连接欧洲、中东地区</title>
+      <link>https://vpsguide.github.io/regions/tr/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/regions/tr/</guid>
+      <description>土耳其VPS凭借欧亚交汇的地理优势，覆盖中东、东欧及中亚市场，延迟表现出色。本文整理了多家提供土耳其节点的主流服务商，重点对比无限流量套餐性价比与中文客服支持情况，结合实测数据分析各家机房网络质量，帮助你找到适合自身业务需求的土耳其云服务器方案。</description>
+    </item>
     <item>
       <title>东南亚泰国VPS推荐，低延迟的服务器我推荐这几家</title>
       <link>https://vpsguide.github.io/regions/th/</link>
