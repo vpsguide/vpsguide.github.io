@@ -6,8 +6,15 @@
     <description>Recent content in 全球VPS推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/regions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>中国台湾VPS推荐，稳定直连大陆优选方案</title>
+      <link>https://vpsguide.github.io/regions/tw/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/regions/tw/</guid>
+      <description>中国台湾VPS推荐，汇总多款高性价比台湾云服务器方案。台湾节点地处亚太枢纽，对中国大陆延迟低、三网直连线路资源丰富，适合业务加速与跨境部署。本文精选支持无限流量VPS套餐、提供中文客服的主流服务商，涵盖配置、价格与实测数据，助你快速找到最合适的台湾VPS方案。</description>
+    </item>
     <item>
       <title>土耳其VPS推荐，伊斯坦布尔连接欧洲、中东地区</title>
       <link>https://vpsguide.github.io/regions/tr/</link>
