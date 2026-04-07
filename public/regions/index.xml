@@ -6,8 +6,15 @@
     <description>Recent content in 全球VPS推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/regions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>乌克兰VPS推荐，覆盖东欧独联体市场的首选</title>
+      <link>https://vpsguide.github.io/regions/ua/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/regions/ua/</guid>
+      <description>乌克兰VPS推荐，精选多家性价比高、网络稳定的乌克兰云服务器服务商。乌克兰地处东欧枢纽，VPS节点可低延迟覆盖波兰、罗马尼亚等欧盟国家及俄罗斯、哈萨克斯坦等独联体地区，带宽价格低廉，部分服务商提供无限流量套餐及中文客服支持，适合东欧与独联体市场业务部署。</description>
+    </item>
     <item>
       <title>中国台湾VPS推荐，稳定直连大陆优选方案</title>
       <link>https://vpsguide.github.io/regions/tw/</link>
