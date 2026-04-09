@@ -6,8 +6,15 @@
     <description>Recent content in 全球VPS推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/regions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>美国VPS推荐，出海建站的首选节点</title>
+      <link>https://vpsguide.github.io/regions/us/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/regions/us/</guid>
+      <description>精选美国VPS云服务器推荐，涵盖洛杉矶、圣何塞、纽约等主流机房节点，重点对比无限流量套餐与中文客服支持方案。我测试过数十家服务商，从价格、速度、稳定性多维度筛选，帮助你找到最适合建站、跨境业务或个人项目的美国VPS方案，性价比之选一览无遗。</description>
+    </item>
     <item>
       <title>乌克兰VPS推荐，覆盖东欧独联体市场的首选</title>
       <link>https://vpsguide.github.io/regions/ua/</link>
