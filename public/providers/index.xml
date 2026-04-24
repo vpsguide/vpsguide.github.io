@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>商家详情 on 云选指南</title>
+    <link>https://vpsguide.github.io/providers/</link>
+    <description>Recent content in 商家详情 on 云选指南</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 24 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工（BandwagonHost）深度测评，究竟值不值得买？</title>
+      <link>https://vpsguide.github.io/providers/bandwagonhost/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/bandwagonhost/</guid>
+      <description>我曾因为贪便宜买过无数劣质 VPS，最终付出了惨痛的业务宕机与迁移代价。这篇文章是我自费测评搬瓦工 (BandwagonHost) 的真实记录，重点拆解它的路由质量与溢价逻辑，帮你选对适合自己的机房。</description>
+    </item>
+  </channel>
+</rss>
