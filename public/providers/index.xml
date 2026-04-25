@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 24 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>完整体验 Kamatera，免费试用 30 天后的真实评价与选购建议</title>
+      <link>https://vpsguide.github.io/providers/kamatera/</link>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/kamatera/</guid>
+      <description>记录我完整体验 Kamatera 云主机 30 天免费试用的全过程。文章不仅梳理了它的硬件参数和套餐逻辑，还放上了详细的网络线路与性能实测数据。到底适不适合把业务迁过来，这篇真实的评测能给你答案。</description>
+    </item>
     <item>
       <title>搬瓦工（BandwagonHost）深度测评，究竟值不值得买？</title>
       <link>https://vpsguide.github.io/providers/bandwagonhost/</link>
