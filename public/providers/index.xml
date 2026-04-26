@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 25 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>老牌主机商 InterServer 深度体验，实测后告诉你值不值</title>
+      <link>https://vpsguide.github.io/providers/interserver/</link>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/interserver/</guid>
+      <description>InterServer 作为一家拥有二十多年历史的美国老牌主机商，以价格稳定和不限流量著称。我通过对其实际机房进行网络连通性、IO性能及负载能力的深度测试，为你还原最真实的使用体验。这篇评测旨在帮助开发者在寻找高性价比 VPS 时提供客观的建议。</description>
+    </item>
     <item>
       <title>完整体验 Kamatera，免费试用 30 天后的真实评价与选购建议</title>
       <link>https://vpsguide.github.io/providers/kamatera/</link>
