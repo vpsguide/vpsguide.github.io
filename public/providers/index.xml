@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 26 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>老牌商家 Hostwinds 真实的上手体验，看 Dallas 机房实测</title>
+      <link>https://vpsguide.github.io/providers/hostwinds/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/hostwinds/</guid>
+      <description>本文分享老牌 VPS 商家 Hostwinds 达拉斯机房的真实上手体验。结合长期建站经验，我对这台机器的网络连通性与硬件性能进行了深度测试。通过客观的数据梳理其实际性价比，为你提供真实的选购参考。</description>
+    </item>
     <item>
       <title>老牌主机商 InterServer 深度体验，实测后告诉你值不值</title>
       <link>https://vpsguide.github.io/providers/interserver/</link>
