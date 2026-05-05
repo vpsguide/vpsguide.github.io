@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>深入了解 Evoxt 服务商，核心优势分析与 VPS 性能实测</title>
+      <link>https://vpsguide.github.io/providers/evoxt/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/evoxt/</guid>
+      <description>本文详细评测 Evoxt 云服务器的核心优势与基础套餐。结合我长期的服务器运维经验，对 Evoxt 多个节点进行真实的网络跑分与硬件性能测试。为你揭示其实际建站体验与性价比表现，提供客观真实的选购参考。</description>
+    </item>
     <item>
       <title>深度测评 DMIT，从硬件参数到路由多角度判断是否值得</title>
       <link>https://vpsguide.github.io/providers/dmit/</link>
