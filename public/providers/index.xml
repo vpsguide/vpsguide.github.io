@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>便宜的老牌商家 HostDare 怎么样？看洛杉矶 VPS 实测</title>
+      <link>https://vpsguide.github.io/providers/hostdare/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/hostdare/</guid>
+      <description>HostDare 作为老牌廉价 VPS 商家，因其提供高性价比洛杉矶 CN2 GIA 线路而受到关注。本文通过真实数据实测 HostDare 的网络延迟、丢包率与硬件性能，分享我在低预算需求下寻找便宜 CN2 线路的折腾经验。我将整理最真实的使用反馈，为站长提供客观参考。</description>
+    </item>
     <item>
       <title>深入了解 Evoxt 服务商，核心优势分析与 VPS 性能实测</title>
       <link>https://vpsguide.github.io/providers/evoxt/</link>
