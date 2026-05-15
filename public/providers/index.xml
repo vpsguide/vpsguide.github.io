@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>全机房自由切换还能免费换 IP，JustHost 到底怎么样？</title>
+      <link>https://vpsguide.github.io/providers/justhost/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/justhost/</guid>
+      <description>这篇JustHost深度评测从大流量消耗场景出发，真实测试其全机房自由切换与免费换IP功能。文章包含多节点延迟、路由及硬件性能的客观跑分数据，旨在为寻找便宜不限流量VPS的用户提供理性的选购参考。</description>
+    </item>
     <item>
       <title>iPRaft 的云服务器值得买吗？真实站长的点评和购买建议</title>
       <link>https://vpsguide.github.io/providers/ipraft/</link>
