@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>不限流量的 JustVPS 怎么样？附 CPU 性能和磁盘 IO 测试</title>
+      <link>https://vpsguide.github.io/providers/justvps/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/justvps/</guid>
+      <description>JustVPS 主打不限流量与全球多机房一键切换。本文通过对 JustVPS 的 CPU 性能、磁盘 IO 以及真实网络链路进行深度测评，提供客观的跑分数据与避坑建议，帮助站长与开发者评估其作为业务备用节点的真实性价比。</description>
+    </item>
     <item>
       <title>全机房自由切换还能免费换 IP，JustHost 到底怎么样？</title>
       <link>https://vpsguide.github.io/providers/justhost/</link>
