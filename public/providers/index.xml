@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>便宜的 CloudCone 怎么样？附洛杉矶 VPS 真实测试报告</title>
+      <link>https://vpsguide.github.io/providers/cloudcone/</link>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/cloudcone/</guid>
+      <description>CloudCone 是许多新手初次建站时关注的低价海外主机商。本文详细测评了 CloudCone 洛杉矶机房的网络延迟与硬件跑分表现。结合真实的测试数据与长期折腾经验，为你客观解析它的真实性价比，提供理性的选购参考。</description>
+    </item>
     <item>
       <title>不限流量的 JustVPS 怎么样？附 CPU 性能和磁盘 IO 测试</title>
       <link>https://vpsguide.github.io/providers/justvps/</link>
