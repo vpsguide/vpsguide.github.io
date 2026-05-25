@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 23 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>按小时计费的 Vultr 的核心优势解析与洛杉矶机房实测</title>
+      <link>https://vpsguide.github.io/providers/vultr/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/vultr/</guid>
+      <description>本文详细评测老牌云服务器 Vultr 的洛杉矶机房与按小时计费模式。我基于真实业务场景，深入测试了其网络连通性、硬件读写与性价比。这份客观的跑分数据与使用体验，能为寻找稳定建站环境的站长提供真实参考。</description>
+    </item>
     <item>
       <title>便宜的 CloudCone 怎么样？附洛杉矶 VPS 真实测试报告</title>
       <link>https://vpsguide.github.io/providers/cloudcone/</link>
