@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>年付十几刀的 RackNerd 怎么样，附圣何塞机房实测报告</title>
+      <link>https://vpsguide.github.io/providers/racknerd/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/racknerd/</guid>
+      <description>本文详细测评年付十几美元的 RackNerd 圣何塞机房 VPS。基于长期的真实使用体验，深入测试其网络连通性、硬件跑分与综合性价比。为你提供客观的性能数据参考与备用机购买建议，还原低价服务器的真实表现。</description>
+    </item>
     <item>
       <title>按小时计费的 Vultr 的核心优势解析与洛杉矶机房实测</title>
       <link>https://vpsguide.github.io/providers/vultr/</link>
