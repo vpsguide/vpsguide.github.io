@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大陆优化的 RAKsmart 值不值得买？看我的测试数据</title>
+      <link>https://vpsguide.github.io/providers/raksmart/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/raksmart/</guid>
+      <description>RAKsmart 拥有丰富的海外机房资源，其大陆优化线路与按小时计费机制吸引了许多开发者。本文通过客观的测试数据，深入分析其硬件性能、网络延迟与回国路由表现，为有大带宽与高防需求的用户提供真实的购买参考。</description>
+    </item>
     <item>
       <title>年付十几刀的 RackNerd 怎么样，附圣何塞机房实测报告</title>
       <link>https://vpsguide.github.io/providers/racknerd/</link>
