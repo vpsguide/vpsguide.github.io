@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>低价美区 VPS ColoCrossing 硬件性能与延迟实测</title>
+      <link>https://vpsguide.github.io/providers/colocrossing/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/colocrossing/</guid>
+      <description>本文整理了低价美区主机 ColoCrossing 的实测数据。针对其热门套餐，我测试了硬件性能、网络连通性与国内延迟。通过真实的上机体验客观分析性价比，为寻找便宜大流量 VPS 的用户提供参考。</description>
+    </item>
     <item>
       <title>提供优化线路的 TmhHost 怎么样？附美国 CN2 GIA 实测</title>
       <link>https://vpsguide.github.io/providers/tmhhost/</link>
