@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>按时计费的 LightNode 怎么样？综合测评与实测分享</title>
+      <link>https://vpsguide.github.io/providers/lightnode/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/lightnode/</guid>
+      <description>LightNode 是一家支持按时计费的国人 VPS 商家。本文详细记录了 LightNode 的真实上手体验，包含网络路由连通性实测、硬件性能跑分以及建站性价比分析，为需要多节点和按小时计费的用户提供客观参考。</description>
+    </item>
     <item>
       <title>低价美区 VPS ColoCrossing 硬件性能与延迟实测</title>
       <link>https://vpsguide.github.io/providers/colocrossing/</link>
