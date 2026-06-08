@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 07 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>全球多节点的萤光云怎么样？大陆优化 VPS 实测</title>
+      <link>https://vpsguide.github.io/providers/ygcloud/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/ygcloud/</guid>
+      <description>萤光云作为一家主打全球多节点的云服务商，其部分特定机房提供了针对大陆优化的专线网络。本文基于真实的 VPS 购买体验，深度测评了其网络连通性、硬件跑分与回程路由，为你提供务实的选购参考。</description>
+    </item>
     <item>
       <title>按时计费的 LightNode 怎么样？综合测评与实测分享</title>
       <link>https://vpsguide.github.io/providers/lightnode/</link>
