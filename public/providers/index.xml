@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>深入了解全球云（LOCVPS）！附美国 BGP 节点实测数据</title>
+      <link>https://vpsguide.github.io/providers/locvps/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/locvps/</guid>
+      <description>本文详细评测老牌国人 VPS 商家全球云（LOCVPS），重点分享美国 BGP 节点的真实表现。通过多维度的硬件跑分与网络连通性测试，还原其建站实力与综合性价比，为寻找稳定海外服务器的朋友提供客观数据参考。</description>
+    </item>
     <item>
       <title>全球多节点的萤光云怎么样？大陆优化 VPS 实测</title>
       <link>https://vpsguide.github.io/providers/ygcloud/</link>
