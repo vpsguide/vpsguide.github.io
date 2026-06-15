@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>老牌云厂商 DigitalOcean 的核心优势与 VPS 实例性能测试</title>
+      <link>https://vpsguide.github.io/providers/digitalocean/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/digitalocean/</guid>
+      <description>本文评测老牌云服务商 DigitalOcean 的核心优势与实例性能。除了支持按小时计费，它对开发者环境更加友好。通过对网络连通性、硬件跑分及性价比的深度测试，为您提供真实客观的云服务器部署与选购参考。</description>
+    </item>
     <item>
       <title>带你认识 ByteVirt 怎么样？实测美国 CN2 GIA VPS</title>
       <link>https://vpsguide.github.io/providers/bytevirt/</link>

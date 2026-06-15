@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://vpsguide.github.io/</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vpsguide.github.io/providers/bytevirt/</loc>
-    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+    <loc>https://vpsguide.github.io/providers/digitalocean/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vpsguide.github.io/providers/</loc>
+    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vpsguide.github.io/providers/bytevirt/</loc>
     <lastmod>2026-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vpsguide.github.io/providers/locvps/</loc>
