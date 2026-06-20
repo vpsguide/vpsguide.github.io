@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VPS 推荐 on 云选指南</title>
+    <link>https://vpsguide.github.io/recommendations/</link>
+    <description>Recent content in VPS 推荐 on 云选指南</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vpsguide.github.io/recommendations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>美国 CN2 GIA VPS 商家有哪些？看这一篇就够了</title>
+      <link>https://vpsguide.github.io/recommendations/usa-cn2-gia-vps/</link>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/recommendations/usa-cn2-gia-vps/</guid>
+      <description>想知道哪些美国 VPS 商家拥有 CN2 GIA 线路吗？本文为你带来最全的美国 CN2 GIA VPS 核心商家盘点，无论你是追求晚高峰低延迟还是稳定速度，看这一篇就够了，帮你快速锁定靠谱的主机服务商。</description>
+    </item>
+  </channel>
+</rss>
