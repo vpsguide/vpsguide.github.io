@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>国际托管商 UltaHost 怎么样？附美国 VPS 硬件与延迟实测</title>
+      <link>https://vpsguide.github.io/providers/ultahost/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/ultahost/</guid>
+      <description>UltaHost 是一家主打全托管的国际化云主机服务商，机房遍布全球十几个国家。本文基于后端博主的真实上机体验，对它的美国洛杉矶 VPS 进行硬件性能、网络延迟与 IP 质量的深度实测，帮你判断这台国际线路机器是否适合你的项目。</description>
+    </item>
     <item>
       <title>老牌云厂商 DigitalOcean 的核心优势与 VPS 实例性能测试</title>
       <link>https://vpsguide.github.io/providers/digitalocean/</link>

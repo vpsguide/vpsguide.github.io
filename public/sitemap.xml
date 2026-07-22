@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vpsguide.github.io/recommendations/</loc>
-    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://vpsguide.github.io/</loc>
+    <lastmod>2026-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vpsguide.github.io/providers/ultahost/</loc>
+    <lastmod>2026-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vpsguide.github.io/providers/</loc>
+    <lastmod>2026-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vpsguide.github.io/recommendations/</loc>
     <lastmod>2026-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vpsguide.github.io/recommendations/jp-cn2-gia-vps/</loc>
@@ -18,9 +24,6 @@
     <lastmod>2026-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vpsguide.github.io/providers/digitalocean/</loc>
-    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vpsguide.github.io/providers/</loc>
     <lastmod>2026-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vpsguide.github.io/providers/bytevirt/</loc>
