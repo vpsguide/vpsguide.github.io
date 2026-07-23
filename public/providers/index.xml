@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>老牌国人商家 DIYVM 怎么样？附香港 CN2 GIA 实测</title>
+      <link>https://vpsguide.github.io/providers/diyvm/</link>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/diyvm/</guid>
+      <description>DIYVM 是一家成立于 2009 年的老牌国人主机商，主打独享带宽、不限流量与 CN2 优化线路。本文基于后端博主的真实折腾经验，对它的香港 CN2 GIA 入门套餐进行深度测评，从硬件跑分到三网回程逐项拆解，为你提供客观的选购参考。</description>
+    </item>
     <item>
       <title>国际托管商 UltaHost 怎么样？附美国 VPS 硬件与延迟实测</title>
       <link>https://vpsguide.github.io/providers/ultahost/</link>
