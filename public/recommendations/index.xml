@@ -6,8 +6,15 @@
     <description>Recent content in VPS 推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/recommendations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>支持支付宝付款的国外 VPS 商家盘点，国内用户免双币卡轻松购买</title>
+      <link>https://vpsguide.github.io/recommendations/alipay-vps/</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/recommendations/alipay-vps/</guid>
+      <description>想用支付宝轻松购买海外服务器吗？本文精选支持支付宝付款的优质国外 VPS 商家，涵盖高端直连、极致性价比与轻量亚太节点。无需双币信用卡，直接扫码人民币结算，帮你快速选出稳定好用、支付无忧的海外云主机。</description>
+    </item>
     <item>
       <title>盘点国内直连速度快的日本 CN2 GIA VPS 商家</title>
       <link>https://vpsguide.github.io/recommendations/jp-cn2-gia-vps/</link>
