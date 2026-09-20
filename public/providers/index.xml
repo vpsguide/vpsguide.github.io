@@ -6,8 +6,15 @@
     <description>Recent content in 商家详情 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 23 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/providers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GreenCloud 绿云怎么样？洛杉矶 Ryzen VPS 实测报告</title>
+      <link>https://vpsguide.github.io/providers/greencloudvps/</link>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/providers/greencloudvps/</guid>
+      <description>本文深度测评 GreenCloud 绿云洛杉矶 Ryzen 9 9950X 实例。基于真实实测数据，全面解析其 2GB/s 高速 NVMe 存储、10Gbps 超大突发端口、三网回程路由、流媒体与 AI 服务解锁及原生 IP 质量，还原其真实性价比。</description>
+    </item>
     <item>
       <title>老牌国人商家 DIYVM 怎么样？附香港 CN2 GIA 实测</title>
       <link>https://vpsguide.github.io/providers/diyvm/</link>
