@@ -6,8 +6,15 @@
     <description>Recent content in VPS 推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/recommendations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>支持月付的国外 VPS 商家盘点，低成本试错优选</title>
+      <link>https://vpsguide.github.io/recommendations/monthly-vps/</link>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/recommendations/monthly-vps/</guid>
+      <description>买海外云服务器担心踩坑被年付套牢？本文盘点支持月付的国外 VPS 优质商家，涵盖高端直连专线、平价优化网络与轻量亚太节点。支持无溢价按月灵活付费，试错成本极低，助你轻松选出稳定好用的海外云主机。</description>
+    </item>
     <item>
       <title>按小时计费国外 VPS 推荐，随用随开与弹性云主机盘点</title>
       <link>https://vpsguide.github.io/recommendations/hourly-billing-vps/</link>
