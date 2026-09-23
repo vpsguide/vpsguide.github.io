@@ -6,8 +6,15 @@
     <description>Recent content in VPS 推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/recommendations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>免备案海外建站 VPS 推荐，即买即用快速上线优质主机盘点</title>
+      <link>https://vpsguide.github.io/recommendations/no-icp-vps/</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/recommendations/no-icp-vps/</guid>
+      <description>不想经历繁琐漫长的域名备案流程、希望网站即买即用并快速上线？本文精选多款适合免备案建站的优质国外 VPS 商家，涵盖顶级直连优化线路、超高性价比配置与全球合规云主机。详细解析建站配置选型、域名解析准备与网站加速技巧，助你轻松打造高速稳定的免备案站点。</description>
+    </item>
     <item>
       <title>支持月付的国外 VPS 商家盘点，低成本试错优选</title>
       <link>https://vpsguide.github.io/recommendations/monthly-vps/</link>
