@@ -6,8 +6,15 @@
     <description>Recent content in VPS 推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 23 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/recommendations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>跨境电商独立站建站 VPS 推荐，让海外客户秒开</title>
+      <link>https://vpsguide.github.io/recommendations/ecommerce-vps/</link>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/recommendations/ecommerce-vps/</guid>
+      <description>想为跨境电商独立站挑选高速稳定的建站服务器吗？本文精选多款高在线率、高频 CPU 与 NVMe 固态的优质海外 VPS，完美适配 WooCommerce 动态高并发与全球秒开，助你彻底告别丢单，轻松搭建专业外贸出海商城。</description>
+    </item>
     <item>
       <title>免备案海外建站 VPS 推荐，即买即用快速上线优质主机盘点</title>
       <link>https://vpsguide.github.io/recommendations/no-icp-vps/</link>
