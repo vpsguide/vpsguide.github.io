@@ -6,8 +6,15 @@
     <description>Recent content in VPS 推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/recommendations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新手友好型国外 VPS 推荐，面板简单与一键部署省心主机</title>
+      <link>https://vpsguide.github.io/recommendations/beginner-friendly-vps/</link>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/recommendations/beginner-friendly-vps/</guid>
+      <description>刚接触海外云服务器担心不懂代码？本文精选控制面板简单、自带应用一键安装与运维省心的新手友好型国外 VPS 商家。涵盖自研面板、全中文后台与免费快照功能，助零基础小白轻松避坑上手。</description>
+    </item>
     <item>
       <title>跨境电商独立站建站 VPS 推荐，让海外客户秒开</title>
       <link>https://vpsguide.github.io/recommendations/ecommerce-vps/</link>
