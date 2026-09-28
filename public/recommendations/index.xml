@@ -9,6 +9,13 @@
     <lastBuildDate>Sun, 27 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/recommendations/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>国内直连速度快的海外 VPS 商家盘点，告别丢包与高延迟</title>
+      <link>https://vpsguide.github.io/recommendations/fast-direct-vps/</link>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/recommendations/fast-direct-vps/</guid>
+      <description>受够了海外服务器晚高峰的高延迟与疯狂丢包？本文盘点国内直连速度快的优质海外 VPS 商家，涵盖三网回程 CN2 GIA、AS9929 与精品海缆直连。助你告别路由绕路与网络拥堵，轻松锁定低延迟高速云主机。</description>
+    </item>
+    <item>
       <title>新手友好型国外 VPS 推荐，面板简单与一键部署省心主机</title>
       <link>https://vpsguide.github.io/recommendations/beginner-friendly-vps/</link>
       <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
