@@ -6,8 +6,15 @@
     <description>Recent content in VPS 推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 27 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/recommendations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大带宽海外 VPS 商家推荐，1Gbps 至 10Gbps 高速服务器</title>
+      <link>https://vpsguide.github.io/recommendations/high-bandwidth-vps/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/recommendations/high-bandwidth-vps/</guid>
+      <description>受够了数十兆小水管的龟速限速与带宽拥堵？本文深度盘点标配 1Gbps 至 10Gbps 超大管道的高速海外 VPS 优质商家。涵盖超大带宽优化专线、全球云主机与平民大口径机型，助你轻松选定高吞吐大带宽国外 VPS。</description>
+    </item>
     <item>
       <title>国内直连速度快的海外 VPS 商家盘点，告别丢包与高延迟</title>
       <link>https://vpsguide.github.io/recommendations/fast-direct-vps/</link>
