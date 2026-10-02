@@ -6,8 +6,15 @@
     <description>Recent content in VPS 推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 30 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/recommendations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大流量与无限流量海外 VPS 推荐，高吞吐传输不设限</title>
+      <link>https://vpsguide.github.io/recommendations/unlimited-bandwidth-vps/</link>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/recommendations/unlimited-bandwidth-vps/</guid>
+      <description>受够了流量超标停机与高昂账单？本文深度盘点月流量充沛及真正不限流量的海外优质 VPS 商家。涵盖小带宽无限流量专线、万兆大流量弹性云与平民大口径机型，助你彻底告别流量焦虑，轻松选定高吞吐国外服务器。</description>
+    </item>
     <item>
       <title>大带宽海外 VPS 商家推荐，1Gbps 至 10Gbps 高速服务器</title>
       <link>https://vpsguide.github.io/recommendations/high-bandwidth-vps/</link>
