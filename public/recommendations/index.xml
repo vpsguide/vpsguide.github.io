@@ -6,8 +6,15 @@
     <description>Recent content in VPS 推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 02 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/recommendations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows 海外 VPS 商家推荐，外贸与挂机远程桌面优选</title>
+      <link>https://vpsguide.github.io/recommendations/windows-vps/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/recommendations/windows-vps/</guid>
+      <description>正在寻找适合外贸远程办公与外汇挂机的海外 Windows VPS 吗？本文精选多家支持预装正版 Windows、提供大陆优化低延迟专线与高性价比大内存的海外云服务器。涵盖配置选型与远程桌面优化技巧，助你轻松选定稳定流畅的国外 Windows 主机。</description>
+    </item>
     <item>
       <title>大流量与无限流量海外 VPS 推荐，高吞吐传输不设限</title>
       <link>https://vpsguide.github.io/recommendations/unlimited-bandwidth-vps/</link>
