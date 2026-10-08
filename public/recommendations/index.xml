@@ -6,8 +6,15 @@
     <description>Recent content in VPS 推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/recommendations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>游戏联机私服 VPS 推荐，幻兽帕鲁、我的世界与泰拉瑞亚服务器盘点</title>
+      <link>https://vpsguide.github.io/recommendations/game-server-vps/</link>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/recommendations/game-server-vps/</guid>
+      <description>想和好友自建游戏服务器畅快联机吗？本文精选适合搭建幻兽帕鲁、我的世界及泰拉瑞亚私服的高性能海外VPS云服务器。涵盖高主频CPU单核算力、大内存选型与防卡顿配置技巧，助你轻松选定流畅稳定的游戏联机主机。</description>
+    </item>
     <item>
       <title>Windows 海外 VPS 商家推荐，外贸与挂机远程桌面优选</title>
       <link>https://vpsguide.github.io/recommendations/windows-vps/</link>
