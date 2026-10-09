@@ -6,8 +6,15 @@
     <description>Recent content in VPS 推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/recommendations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大盘鸡 VPS 商家推荐，海量存储、个人私有网盘与离线下载首选</title>
+      <link>https://vpsguide.github.io/recommendations/storage-vps/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/recommendations/storage-vps/</guid>
+      <description>想要自建私有网盘或备份海量冷数据吗？本文精选高性价比海外大盘鸡VPS云服务器，涵盖InterServer、绿云等大容量存储主机。深度解析机械硬盘与固态读写差异、IO限制策略及Rclone加密备份技巧，助你轻松选定存储型VPS。</description>
+    </item>
     <item>
       <title>游戏联机私服 VPS 推荐，幻兽帕鲁、我的世界与泰拉瑞亚服务器盘点</title>
       <link>https://vpsguide.github.io/recommendations/game-server-vps/</link>
