@@ -6,8 +6,15 @@
     <description>Recent content in VPS 推荐 on 云选指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 09 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://vpsguide.github.io/recommendations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>海外高防 VPS 推荐，抗 DDoS 攻击与大流量清洗服务器盘点</title>
+      <link>https://vpsguide.github.io/recommendations/ddos-protected-vps/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://vpsguide.github.io/recommendations/ddos-protected-vps/</guid>
+      <description>网站频遭恶意流量攻击导致瘫痪？本文精选靠谱海外高防VPS云服务器，涵盖丽萨主机、EdgeNat及Vultr等主流商家。深度解析流量清洗机制与抗DDoS防黑洞技巧，助你轻松选定稳定抗攻击免备案云主机。</description>
+    </item>
     <item>
       <title>纯净原生 IP 海外 VPS 推荐，跨境电商、社媒运营与流媒体解锁优选</title>
       <link>https://vpsguide.github.io/recommendations/native-ip-vps/</link>
